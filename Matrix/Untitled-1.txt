@@ -1,0 +1,40 @@
+<div class="Process-container-1">
+   <h1 class="i-h-primary" style="color: white;"><b>FAQ</b></h1>
+   <p class="p-primary p1"style="color: white;">Some FAQ that make your more understandable and make our company more trustable !!!</p><br>
+   <div class="Process-container">
+  
+      <div class="p-box-thumnil">
+         
+                      <div class="p-thumnil" >
+                       
+                          <div class="h1-des h"><div class="h-arrow"> Tell Us What You Want<div class="arrow">&#10094;</div></div></div> 
+                          <br>
+                           <p class="p1-des p">Tell us about your requirements,taste and your tentactive budget etc. Afterthat we will provide you our suggestion according to your budget and requirements and also discuss about the materials. Because we are happy to know your all requirements.</p>
+                      </div>
+                      <div class="p-thumnil" >
+                       
+                        <div class="h2-des h"><div class="h-arrow">  <br> Get custom plans and designs <div class="arrow">&#10094;</div></div></div>
+                        <br>
+                        <p class="p2-des p"> Accrosing to your requirements We'll create the floor plan, furniture layout , elevation 
+                        an interactive 3D designs of your style and budget.</p>
+                    </div>
+                    <div class="p-thumnil" >
+                     
+                      <div class="h3-des h"> <div class="h-arrow"> <br>  Review and Finalize <div class="arrow">&#10094;</div></div></div>
+                      <br>
+                      <p class="p3-des p">We are happy to show you our designs and plannings . After seeing the design if you want to Change then We'll make changes in the designs until you're 100% satisfied. </p>
+                  </div>
+                  <div class="p-thumnil" >
+                  
+                    <div class="h4-des h" ><div class="h-arrow">  <br> Installation Complete and Move in<div class="arrow">&#10094;</div></div></div>
+                    <br>
+                    <p class="p4-des p" >Complete the Designs with paintings, flooring and other decor Solutions.<br> After Our all responsibilities getting done . Now you are ready to Move-in your expected house. </p>
+                </div>
+             
+  </div>
+      <div class="p-box-thumnil-img">
+         <img src="logo/discussion.jpg" alt="discussion">
+         
+      </div>
+</div>
+</div>
